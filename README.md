@@ -7,11 +7,8 @@
 ```
 
 ### 原理
-#### 加密逻辑
-![Image text](./doc/encrypt.png)
+![Image text](./doc/des.png)
 
-#### 解密逻辑
-![Image text](./doc/decrypt.png)
 
 ### 使用
 加密
